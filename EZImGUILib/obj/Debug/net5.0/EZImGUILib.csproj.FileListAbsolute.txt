@@ -1,0 +1,12 @@
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\bin\Debug\net5.0\EZImGUILib.deps.json
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\bin\Debug\net5.0\EZImGUILib.dll
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\bin\Debug\net5.0\ref\EZImGUILib.dll
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\bin\Debug\net5.0\EZImGUILib.pdb
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.csproj.AssemblyReference.cache
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.AssemblyInfoInputs.cache
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.AssemblyInfo.cs
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.csproj.CoreCompileInputs.cache
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.dll
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\ref\EZImGUILib.dll
+C:\Users\Will\RiderProjects\EZImGUILib\EZImGUILib\obj\Debug\net5.0\EZImGUILib.pdb
