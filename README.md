@@ -20,7 +20,7 @@ public void render() {
 public class MyGUI : GUI {
   private Button myButton;
   
-  public MyGUI("My Awesome GUI!") {
+  public MyGUI(string name) : base("My Awesome GUI") {
     myButton = new Button("I'm a button!");
     
     events();
