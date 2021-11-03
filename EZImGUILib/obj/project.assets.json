@@ -271,15 +271,6 @@
           }
         }
       },
-      "Saffron.Util.ImGuiSFML/1.3.0": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/RenderDataImpl.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/RenderDataImpl.dll": {}
-        }
-      },
       "SFML.Audio/2.5.0": {
         "type": "package",
         "dependencies": {
@@ -460,18 +451,6 @@
         "runtimes/win-x86/native/cimgui.dll"
       ]
     },
-    "Saffron.Util.ImGuiSFML/1.3.0": {
-      "sha512": "Ws+TsIANve2LCa8RFNd9pupdrEe1BEuRVCbtIkaICX1POZ4R+EyaUQpcukd2u+YyHb6rVyP0xqS0GAz68A9F9A==",
-      "type": "package",
-      "path": "saffron.util.imguisfml/1.3.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netcoreapp3.1/RenderDataImpl.dll",
-        "saffron.util.imguisfml.1.3.0.nupkg.sha512",
-        "saffron.util.imguisfml.nuspec"
-      ]
-    },
     "SFML.Audio/2.5.0": {
       "sha512": "M5EIksRefT3nsLT32oEpESStsnlixR+YjKS6fUMl+vDQ3gdMaV4jc84pg3kbfM9w4RYKAyH6OWV4bzDU5FNZyA==",
       "type": "package",
@@ -630,8 +609,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "ImGui.NET >= 1.78.0",
-      "SFML.Net >= 2.5.0",
-      "Saffron.Util.ImGuiSFML >= 1.3.0"
+      "SFML.Net >= 2.5.0"
     ]
   },
   "packageFolders": {
@@ -685,10 +663,6 @@
           "SFML.Net": {
             "target": "Package",
             "version": "[2.5.0, )"
-          },
-          "Saffron.Util.ImGuiSFML": {
-            "target": "Package",
-            "version": "[1.3.0, )"
           }
         },
         "imports": [

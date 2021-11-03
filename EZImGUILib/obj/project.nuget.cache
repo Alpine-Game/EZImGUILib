@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WZTDoi67mD5A3PT4BY/tvaeNu/+6TaBzaZntgeyWFo1LZAHZIzkauJkDAAl3y11Lstv0EhmOTDAuNx7MQSHdzA==",
+  "dgSpecHash": "YNp0HrT9ECFirh0IOhZPOkJALpG3a/Ve41YuZ7bjgSnFGDE2+UcngcU/fwX6dOt065s+CW+HlXaOszLGBT6Ijw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Will\\RiderProjects\\EZImGUILib\\EZImGUILib\\EZImGUILib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Will\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
     "C:\\Users\\Will\\.nuget\\packages\\imgui.net\\1.78.0\\imgui.net.1.78.0.nupkg.sha512",
-    "C:\\Users\\Will\\.nuget\\packages\\saffron.util.imguisfml\\1.3.0\\saffron.util.imguisfml.1.3.0.nupkg.sha512",
     "C:\\Users\\Will\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
     "C:\\Users\\Will\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
     "C:\\Users\\Will\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
